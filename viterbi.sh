@@ -1,0 +1,1 @@
+python3 viterbi.py $1 $2 $3
