@@ -1,1 +1,1 @@
-python3 conv_format.py
+python3 script/conv_format.py

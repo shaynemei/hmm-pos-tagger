@@ -1,1 +1,1 @@
-python3 viterbi.py $1 $2 $3
+python3 script/viterbi.py $1 $2 $3
